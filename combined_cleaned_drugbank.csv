@@ -1,0 +1,1089 @@
+DRUG,COUNT,TARGET,STATUS
+Hydroxychloroquine,601.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+COVID-19 convalescent plasma,396.0,[],['Potential Drug Targets']
+Ritonavir,195.0,"['Nuclear receptor subfamily 1 group I member 2', 'Human immunodeficiency virus type 1 protease']","['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Tocilizumab,176.0,['Interleukin-6 receptor subunit alpha'],"['Potential Drug Targets', 'Unapproved Treatments']"
+Lopinavir,177.0,['Human immunodeficiency virus type 1 protease'],"['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Azithromycin,174.0,"['Protein-arginine deiminase type-4', '23S ribosomal RNA']","['Potential Drug Targets', 'Unapproved Treatments']"
+Chloroquine,145.0,"['High mobility group protein B1', 'Toll-like receptor 9', 'Glutathione S-transferase A2', 'Glutathione S-transferase', 'Tumor necrosis factor', 'Angiotensin-converting enzyme 2', 'Glutathione S-transferase Mu 1']","['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Favipiravir,130.0,['RNA-directed RNA polymerase catalytic subunit'],"['Potential Drug Targets', 'Unapproved Treatments']"
+Ivermectin,129.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Remdesivir,92.0,[],['Potential Drug Targets']
+Ascorbic acid,89.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Methylprednisolone,82.0,"['Glucocorticoid receptor', 'Annexin A1']","['Potential Drug Targets', 'Unapproved Treatments']"
+Human Umbilical Cord Mesenchymal Stem Cells,79.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Remestemcel-L,76.0,[],['Potential Drug Targets']
+Heparin,67.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Enoxaparin,64.0,[],['Potential Drug Targets']
+BCG vaccine,61.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Colchicine,62.0,['Tubulin beta chain'],"['Potential Drug Targets', 'Unapproved Treatments']"
+Ruxolitinib,57.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Anakinra,54.0,[],['Potential Drug Targets']
+Dexamethasone,65.0,"['Glucocorticoid receptor', 'Nitric oxide synthase, inducible', 'Nuclear receptor subfamily 1 group I member 2', 'Annexin A1', 'Nuclear receptor subfamily 0 group B member 1']","['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Human immunoglobulin G,52.0,[],['Potential Drug Targets']
+Nitazoxanide,51.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Interferon beta-1a,46.0,[],['Potential Drug Targets']
+Vitamin D,47.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Gold,42.0,[],['Potential Drug Targets']
+Sofosbuvir,43.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Sarilumab,40.0,[],['Potential Drug Targets']
+Umifenovir,41.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Nitric Oxide,40.0,[],['Potential Drug Targets']
+Cholecalciferol,39.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Povidone-iodine,36.0,[],['Potential Drug Targets']
+Zinc,35.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Baricitinib,42.0,"['Tyrosine-protein kinase JAK1', 'Non-receptor tyrosine-protein kinase TYK2', 'Tyrosine-protein kinase JAK2', 'Tyrosine-protein kinase JAK3']","['Potential Drug Targets', 'Unapproved Treatments']"
+Losartan,33.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+AstraZeneca COVID-19 Vaccine,32.0,[],['Potential Drug Targets']
+Daclatasvir,33.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Adipose-Derived Mesenchymal Stem Cells: Autologous or Allogeneic Origins,30.0,[],['Potential Drug Targets']
+Acetylsalicylic acid,31.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Melatonin,28.0,[],['Potential Drug Targets']
+Oseltamivir,27.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Acetylcysteine,26.0,[],['Potential Drug Targets']
+Ozone,27.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Camostat,26.0,[],['Potential Drug Targets']
+Interferon beta-1b,25.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Doxycycline,24.0,[],['Potential Drug Targets']
+Oxygen,25.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ribavirin,24.0,[],['Potential Drug Targets']
+Dornase alfa,23.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Curcumin,22.0,[],['Potential Drug Targets']
+Cyclosporine,21.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Imatinib,20.0,[],['Potential Drug Targets']
+Telmisartan,21.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ad5-nCoV,20.0,[],['Potential Drug Targets']
+Prednisone,19.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Thymalfasin,18.0,[],['Potential Drug Targets']
+Atorvastatin,19.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Bromhexine,18.0,[],['Potential Drug Targets']
+Rivaroxaban,19.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Acalabrutinib,18.0,[],['Potential Drug Targets']
+Measles virus vaccine live attenuated,19.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Niclosamide,18.0,[],['Potential Drug Targets']
+Budesonide,19.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Vidofludimus,16.0,[],['Potential Drug Targets']
+Ciclesonide,17.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Hydrocortisone,16.0,[],['Potential Drug Targets']
+Nafamostat,17.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Canakinumab,16.0,[],['Potential Drug Targets']
+Mavrilimumab,17.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Atazanavir,16.0,[],['Potential Drug Targets']
+Nivolumab,15.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+VPM1002,14.0,[],['Potential Drug Targets']
+Human interferon beta,17.0,['Interferon alpha/beta receptor 1'],"['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Clazakizumab,14.0,[],['Potential Drug Targets']
+Licorice,15.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Glycyrrhiza glabra,14.0,[],['Potential Drug Targets']
+Turmeric,15.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Mycobacterium w. Vaccine,14.0,[],['Potential Drug Targets']
+Selinexor,15.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Omega-3 fatty acids,14.0,[],['Potential Drug Targets']
+Ravulizumab,15.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Mumps virus strain B level jeryl lynn live antigen,14.0,[],['Potential Drug Targets']
+Rubella virus vaccine,15.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Danoprevir,12.0,[],['Potential Drug Targets']
+Siltuximab,13.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Levamisole,12.0,[],['Potential Drug Targets']
+Naproxen,13.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Valsartan,12.0,[],['Potential Drug Targets']
+Interleukin-7,13.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Resveratrol,12.0,[],['Potential Drug Targets']
+Darunavir,15.0,['Human immunodeficiency virus type 1 protease'],"['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Emtricitabine,12.0,[],['Potential Drug Targets']
+Calcifediol,13.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Stem-cell derived exosome vesicle products,12.0,[],['Potential Drug Targets']
+Natural Killer Cell,13.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Peginterferon lambda-1a,12.0,[],['Potential Drug Targets']
+Sodium chloride,13.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Tinzaparin,12.0,[],['Potential Drug Targets']
+Interferon alfa-2b,13.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Bamlanivimab,14.0,['Spike glycoprotein'],"['Potential Drug Targets', 'Unapproved Treatments']"
+Artesunate,13.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Famotidine,12.0,[],['Potential Drug Targets']
+Anti-SARS-CoV-2 immunoglobulin,13.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Prednisolone,10.0,[],['Potential Drug Targets']
+Pirfenidone,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Vitamin A,10.0,[],['Potential Drug Targets']
+Formoterol,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Pembrolizumab,10.0,[],['Potential Drug Targets']
+Anti-SARS-CoV-2 REGN-COV2,13.0,['Spike glycoprotein'],"['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Methylene blue,10.0,[],['Potential Drug Targets']
+Cinnamon,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Placental Mesenchymal Stem Cells,10.0,[],['Potential Drug Targets']
+Opaganib,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Interferon alfa,10.0,[],['Potential Drug Targets']
+Defibrotide,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Dalteparin,10.0,[],['Potential Drug Targets']
+Deferoxamine,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Janssen COVID-19 Vaccine,10.0,[],['Potential Drug Targets']
+Dental Mesenchymal Pulp Stem Cells,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Leflunomide,10.0,[],['Potential Drug Targets']
+Inactivated SARS-Cov-2 Vaccine,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Sirolimus,10.0,[],['Potential Drug Targets']
+Alteplase,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Transcrocetinate,10.0,[],['Potential Drug Targets']
+Ulinastatin,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Angiotensin 1-7,10.0,[],['Potential Drug Targets']
+Isotretinoin,11.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Artemisinin,10.0,[],['Potential Drug Targets']
+TMC-310911,11.0,['HIV-1 protease'],"['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Bevacizumab,26.0,"['Low affinity immunoglobulin gamma Fc region receptor III-A', 'Low affinity immunoglobulin gamma Fc region receptor II-b', 'Complement C1q subcomponent subunit B', 'Low affinity immunoglobulin gamma Fc region receptor II-c', 'Complement C1q subcomponent subunit C', 'Complement C1q subcomponent subunit A', 'Vascular endothelial growth factor A', 'High affinity immunoglobulin gamma Fc receptor I', 'Low affinity immunoglobulin gamma Fc region receptor II-a']","['Potential Drug Targets', 'Unapproved Treatments']"
+Dexmedetomidine,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Captopril,8.0,[],['Potential Drug Targets']
+Thalidomide,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Spironolactone,8.0,[],['Potential Drug Targets']
+Sevoflurane,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Molnupiravir,8.0,[],['Potential Drug Targets']
+Eculizumab,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Selenium,8.0,[],['Potential Drug Targets']
+Pomegranate,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+ABX-464,8.0,[],['Potential Drug Targets']
+DAS-181,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ginger,8.0,[],['Potential Drug Targets']
+Lithium carbonate,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Sargramostim,8.0,[],['Potential Drug Targets']
+Clarithromycin,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Tenofovir,8.0,[],['Potential Drug Targets']
+Ledipasvir,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Aviptadil,8.0,[],['Potential Drug Targets']
+Cysteine,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Alpha-1-proteinase inhibitor,8.0,[],['Potential Drug Targets']
+Metformin,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Bacillus calmette-guerin substrain danish 1331 live antigen,8.0,[],['Potential Drug Targets']
+Tofacitinib,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Nuvaxovid,8.0,[],['Potential Drug Targets']
+Gam-COVID-Vac,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ethanol,8.0,[],['Potential Drug Targets']
+Fondaparinux,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Montelukast,8.0,[],['Potential Drug Targets']
+Dipyridamole,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Adalimumab,8.0,[],['Potential Drug Targets']
+Tranexamic acid,9.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Hydrogen,6.0,[],['Potential Drug Targets']
+Cobicistat,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Fennel,6.0,[],['Potential Drug Targets']
+Folic acid,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Cyanocobalamin,6.0,[],['Potential Drug Targets']
+Alunacedase alfa,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Itolizumab,6.0,[],['Potential Drug Targets']
+Piperaquine,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Nadroparin,6.0,[],['Potential Drug Targets']
+Zilucoplan,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Honey,6.0,[],['Potential Drug Targets']
+MRx-4DP0004,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Aldesleukin,6.0,[],['Potential Drug Targets']
+Indomethacin,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Isoflurane,6.0,[],['Potential Drug Targets']
+Iloprost,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Candesartan,6.0,[],['Potential Drug Targets']
+Angiotensin II,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Quercetin,6.0,[],['Potential Drug Targets']
+Albumin human,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Chlorhexidine,6.0,[],['Potential Drug Targets']
+Beractant,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+TD-139,6.0,[],['Potential Drug Targets']
+Cannabidiol,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+SARS-CoV-2 Sclamp,6.0,[],['Potential Drug Targets']
+Enzalutamide,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+BNT162b1 SARS-CoV-2 Vaccine,6.0,[],['Potential Drug Targets']
+CoronaVac,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Copper,6.0,[],['Potential Drug Targets']
+Nintedanib,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Moderna COVID-19 Vaccine,6.0,[],['Potential Drug Targets']
+Interferon Gamma,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Indian frankincense,6.0,[],['Potential Drug Targets']
+Otilimab,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Centella asiatica,6.0,[],['Potential Drug Targets']
+Clopidogrel,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Icosapent ethyl,6.0,[],['Potential Drug Targets']
+CIGB-258 peptide,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Bromelains,6.0,[],['Potential Drug Targets']
+Vitamin E,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Pentoxifylline,6.0,[],['Potential Drug Targets']
+Inosine pranobex,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+CHO Cells Recombinant Vaccine,6.0,[],['Potential Drug Targets']
+Poractant alfa,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Lenzilumab,6.0,[],['Potential Drug Targets']
+Azadirachta indica leaf,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Fluvoxamine,6.0,[],['Potential Drug Targets']
+CVnCoV,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Biomodulin T,6.0,[],['Potential Drug Targets']
+Maraviroc,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Zinc gluconate,6.0,[],['Potential Drug Targets']
+Simvastatin,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Linagliptin,6.0,[],['Potential Drug Targets']
+Virus Specific T-Cell,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Chlorpromazine,6.0,[],['Potential Drug Targets']
+Pyronaridine,7.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Oral Polio Vaccine,6.0,[],['Potential Drug Targets']
+Baloxavir marboxil,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Cemiplimab,4.0,[],['Potential Drug Targets']
+Lipoic acid,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Human Embryonic Stem Cell-derived M Cell,4.0,[],['Potential Drug Targets']
+Chamomile,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Althea root,4.0,[],['Potential Drug Targets']
+Urtica dioica pollen,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Vilobelimab,4.0,[],['Potential Drug Targets']
+Tacrolimus,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ipecac,4.0,[],['Potential Drug Targets']
+Nicotinamide,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Fingolimod,14.0,"['Sphingosine 1-phosphate receptor 4', 'Sphingosine 1-phosphate receptor 1', 'Histone deacetylase 1', 'Sphingosine 1-phosphate receptor 3', 'Sphingosine 1-phosphate receptor 5']","['Potential Drug Targets', 'Unapproved Treatments']"
+Mefloquine,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Hydrogen peroxide,4.0,[],['Potential Drug Targets']
+Enalapril,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Trimethoprim,4.0,[],['Potential Drug Targets']
+Sulfamethoxazole,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Tenofovir disoproxil,4.0,[],['Potential Drug Targets']
+Leronlimab,7.0,['C-C chemokine receptor type 5'],"['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Propofol,4.0,[],['Potential Drug Targets']
+Berberine,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Piperacillin,4.0,[],['Potential Drug Targets']
+Tazobactam,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Zinc sulfate,4.0,[],['Potential Drug Targets']
+Azoximer bromide,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Pfizer-BioNTech COVID-19 Vaccine,4.0,[],['Potential Drug Targets']
+Methylprednisolone hemisuccinate,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Trifluoperazine,4.0,[],['Potential Drug Targets']
+Tranilast,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Washed Microbiota Transplantation,4.0,[],['Potential Drug Targets']
+Amiodarone,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Verapamil,4.0,[],['Potential Drug Targets']
+Ramipril,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Gemtuzumab ozogamicin,4.0,[],['Potential Drug Targets']
+Brensocatib,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Filgrastim,4.0,[],['Potential Drug Targets']
+Ibuprofen,25.0,"['Peroxisome proliferator-activated receptor gamma', 'Peroxisome proliferator-activated receptor alpha', 'Prostaglandin G/H synthase 1', 'Platelet glycoprotein Ib alpha chain', 'Thrombomodulin', 'Protein S100-A7', 'Prostaglandin G/H synthase 2', 'Cystic fibrosis transmembrane conductance regulator', 'Apoptosis regulator Bcl-2', 'Fatty acid-binding protein, intestinal']","['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Alendronic acid,4.0,[],['Potential Drug Targets']
+Liothyronine,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Propolis wax,4.0,[],['Potential Drug Targets']
+Levofloxacin,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Amoxicillin,4.0,[],['Potential Drug Targets']
+Clavulanic acid,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Umbilical Cord Blood Hematopoietic Stem Cells,4.0,[],['Potential Drug Targets']
+COVID19 s-vax loaded autologous dendritic cell vaccine,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Infliximab,4.0,[],['Potential Drug Targets']
+Aprotinin,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Sulodexide,4.0,[],['Potential Drug Targets']
+Irbesartan,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Olmesartan,4.0,[],['Potential Drug Targets']
+Eprosartan,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Pentaglobin,4.0,[],['Potential Drug Targets']
+Cetylpyridinium,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Arsenic trioxide,4.0,[],['Potential Drug Targets']
+Olokizumab,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Atibuclimab,4.0,[],['Potential Drug Targets']
+Covax-19™,2.0,[],[]
+BACTEK-R,4.0,[],['Potential Drug Targets']
+KB109,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Dapagliflozin,4.0,[],['Potential Drug Targets']
+Wormwood,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Inactivated SARS-CoV-2 Vaccine (Chinese Academy of Medical Sciences),4.0,[],['Potential Drug Targets']
+Iodine,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+INO-4800,4.0,[],['Potential Drug Targets']
+Sodium bicarbonate,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Aprepitant,4.0,[],['Potential Drug Targets']
+Atovaquone,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Nitrous acid,4.0,[],['Potential Drug Targets']
+Sodium copper chlorophyllin,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ibrutinib,4.0,[],['Potential Drug Targets']
+iota-Carrageenan,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Sitagliptin,4.0,[],['Potential Drug Targets']
+Allogenic Human Umbilical Derived Mesenchymal Stem Cells in Conditioned Media,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Icatibant,4.0,[],['Potential Drug Targets']
+Tenofovir alafenamide,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Clove,4.0,[],['Potential Drug Targets']
+Abatacept,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ebselen,4.0,[],['Potential Drug Targets']
+Sildenafil,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Nelfinavir,4.0,[],['Potential Drug Targets']
+Cepeginterferon alfa-2B,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+AZD-1656,4.0,[],['Potential Drug Targets']
+Zinc chloride,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Silibinin,4.0,[],['Potential Drug Targets']
+Matrix-M,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Rosuvastatin,4.0,[],['Potential Drug Targets']
+Silver,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Water,4.0,[],['Potential Drug Targets']
+Diphenhydramine,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+OM85,4.0,[],['Potential Drug Targets']
+Mesenchymoangioblast-derived mesenchymal stem cells,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Cenicriviroc,4.0,[],['Potential Drug Targets']
+Secukinumab,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Asunercept,4.0,[],['Potential Drug Targets']
+Apixaban,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Recombinant Bacterial ACE2 Receptors-like Enzyme,4.0,[],['Potential Drug Targets']
+Oxytocin,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Abivertinib,8.0,"['Epidermal growth factor receptor', 'Tyrosine-protein kinase BTK']","['Potential Drug Targets', 'Unapproved Treatments']"
+Tamoxifen,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Fluoxetine,4.0,[],['Potential Drug Targets']
+XAV-19,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Amodiaquine,4.0,[],['Potential Drug Targets']
+Almitrine,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Pioglitazone,4.0,[],['Potential Drug Targets']
+BNT162b3,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Human Amniotic Fluid,4.0,[],['Potential Drug Targets']
+Conestat alfa,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Nicotinamide riboside,4.0,[],['Potential Drug Targets']
+Celecoxib,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Noscapine,4.0,[],['Potential Drug Targets']
+Molgramostim,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Tenecteplase,4.0,[],['Potential Drug Targets']
+Citrulline,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ifenprodil,14.0,"['G protein-activated inward rectifier potassium channel 1', 'Glutamate receptor ionotropic, NMDA 1', 'G protein-activated inward rectifier potassium channel 4', 'Glutamate receptor ionotropic, NMDA 2B', 'G protein-activated inward rectifier potassium channel 2']","['Potential Drug Targets', 'Unapproved Treatments']"
+Duvelisib,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Edoxaban,4.0,[],['Potential Drug Targets']
+Tretinoin,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Mosedipimod,4.0,[],['Potential Drug Targets']
+BGB-DXP593,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Lanadelumab,4.0,[],['Potential Drug Targets']
+Efineptakin alfa,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Nitrogen,4.0,[],['Potential Drug Targets']
+Isoquercetin,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Soybean,4.0,[],['Potential Drug Targets']
+Bicalutamide,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Interferon Kappa,4.0,[],['Potential Drug Targets']
+Trefoil Factor 2,5.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Fisetin,4.0,[],['Potential Drug Targets']
+Sulforaphane,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Alpha-Cyclodextrin (Cyclohexa-Amylose),2.0,[],['Potential Drug Targets']
+Moxifloxacin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ceftriaxone,2.0,[],['Potential Drug Targets']
+Erythromycin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ceftaroline fosamil,2.0,[],['Potential Drug Targets']
+Roxithromycin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Medical Cannabis,2.0,[],['Potential Drug Targets']
+Allogenic Donor CD362-enriched Human Umbilical Cord-derived Mesenchymal Stem Cells,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ketotifen,2.0,[],['Potential Drug Targets']
+Influenza B virus B/Brisbane/60/2008 live (attenuated) antigen,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+"Influenza B virus B/Utah/9/2014 antigen (MDCK cell derived, propiolactone inactivated)",2.0,[],['Potential Drug Targets']
+Influenza A virus A/Brisbane/02/2018 IVR-190 (H1N1) antigen (formaldehyde inactivated),3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Influenza B virus B/Maryland/15/2016 BX-69A antigen (formaldehyde inactivated),2.0,[],['Potential Drug Targets']
+Influenza A virus A/Brisbane/10/2010 live (attenuated) antigen,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Influenza A virus A/South Australia/55/2014 live (attenuated) antigen,2.0,[],['Potential Drug Targets']
+Influenza A virus A/Kansas/14/2017 X-327 (H3N2) antigen (formaldehyde inactivated),3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Influenza A virus A/Singapore/gp1908/2015 IVR-180 (H1N1) antigen (propiolactone inactivated),2.0,[],['Potential Drug Targets']
+Influenza A virus A/Hong Kong/4801/2014 X-263B (H3N2) antigen (propiolactone inactivated),3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Moexipril,2.0,[],['Potential Drug Targets']
+Azilsartan medoxomil,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Perindopril,2.0,[],['Potential Drug Targets']
+Benazepril,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Lisinopril,2.0,[],['Potential Drug Targets']
+Fosinopril,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Quinapril,2.0,[],['Potential Drug Targets']
+Trandolapril,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Angelica sinensis root,2.0,[],['Potential Drug Targets']
+Human Menstrual Blood-derived Stem Cells,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Rabeprazole,2.0,[],['Potential Drug Targets']
+Forsythia suspensa fruit,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+AVAC,2.0,[],['Potential Drug Targets']
+Human umbilical cord blood mononuclear cell-conditioned medium,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Lonicera caprifolium flower,2.0,[],['Potential Drug Targets']
+Montmorillonite,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Viral Macrophage-Inflammatory Protein,2.0,[],['Potential Drug Targets']
+Recombinant Super-Compound Interferon,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Camrelizumab,2.0,[],['Potential Drug Targets']
+Triazavirin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Covid-19 Coronavirus Artificial Antigen Presenting Cell Vaccine,2.0,[],['Potential Drug Targets']
+Scutellaria baicalensis root,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Peginterferon alfa-2a,2.0,[],['Potential Drug Targets']
+Trametes versicolor fruiting body,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Suramin,2.0,[],['Potential Drug Targets']
+Ebastine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Artenimol,2.0,[],['Potential Drug Targets']
+Interferon alfa-2a,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Bismuth subcitrate potassium,2.0,[],['Potential Drug Targets']
+Turmeric oil,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Creatine,2.0,[],['Potential Drug Targets']
+Dendritic cells vaccine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Aliskiren,2.0,[],['Potential Drug Targets']
+Nifedipine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Tetrandrine,2.0,[],['Potential Drug Targets']
+Ixekizumab,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+alpha-Linolenic acid,2.0,[],['Potential Drug Targets']
+Levomenthol,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Oleic Acid,2.0,[],['Potential Drug Targets']
+Linoleic acid,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Crocin,2.0,[],['Potential Drug Targets']
+LL-37,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Febuxostat,2.0,[],['Potential Drug Targets']
+Finasteride,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Borage oil,2.0,[],['Potential Drug Targets']
+Oxycodone,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+NKG2D-ACE2 CAR-NK Cell,2.0,[],['Potential Drug Targets']
+IL15-NK Cell,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Escin,2.0,[],['Potential Drug Targets']
+LV-SMENP Vaccine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Tragacanth,2.0,[],['Potential Drug Targets']
+Itraconazole,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Etanercept,2.0,[],['Potential Drug Targets']
+CIGB 2020 Vaccine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Plantago ovata seed,2.0,[],['Potential Drug Targets']
+Purslane,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Teicoplanin,2.0,[],['Potential Drug Targets']
+Mentha arvensis top,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Amlodipine,2.0,[],['Potential Drug Targets']
+Chlorine dioxide,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Emapalumab,2.0,[],['Potential Drug Targets']
+Riboflavin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Thiamine,2.0,[],['Potential Drug Targets']
+Pantothenic acid,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Pyridoxine,2.0,[],['Potential Drug Targets']
+Biotin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Medium-chain triglycerides,2.0,[],['Potential Drug Targets']
+Omeprazole,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Pyridostigmine,2.0,[],['Potential Drug Targets']
+Thyme,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Autologous Non-Hematopoietic Peripheral Blood Stem Cells,2.0,[],['Potential Drug Targets']
+Opium,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Tirofiban,2.0,[],['Potential Drug Targets']
+Hydrocortisone succinate,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+AT-001,2.0,[],['Potential Drug Targets']
+Velpatasvir,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Galidesivir,4.0,['RNA-directed RNA polymerase L'],"['Potential Drug Targets', 'Unapproved Treatments']"
+Povidone,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Clindamycin,2.0,[],['Potential Drug Targets']
+Primaquine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Solnatide,2.0,[],['Potential Drug Targets']
+Gimsilumab,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Tradipitant,2.0,[],['Potential Drug Targets']
+Icosapent,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Senicapoc,2.0,[],['Potential Drug Targets']
+Ginseng,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Schisandra chinensis fruit,2.0,[],['Potential Drug Targets']
+Candesartan cilexetil,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Monalizumab,2.0,[],['Potential Drug Targets']
+Antithrombin III human,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Echinacea,2.0,[],['Potential Drug Targets']
+Estradiol,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Minocycline,2.0,[],['Potential Drug Targets']
+BNT162a1 SARS-CoV-2 Vaccine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+BNT162c2 SARS-CoV-2 Vaccine,2.0,[],['Potential Drug Targets']
+Colistin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Lactobacillus coryniformis K8,2.0,[],['Potential Drug Targets']
+Sirukumab,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+VA-MENGOC-BC®,1.0,[],[]
+Apocynin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Niacin,2.0,[],['Potential Drug Targets']
+Zavegepant,5.0,['Calcitonin gene-related peptide type 1 receptor'],"['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Amino acids,2.0,[],['Potential Drug Targets']
+D-glucose,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Progesterone,2.0,[],['Potential Drug Targets']
+MultiStem,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Bemcentinib,2.0,[],['Potential Drug Targets']
+BBIBP-CorV,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Naltrexone,2.0,[],['Potential Drug Targets']
+Ketamine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Melphalan,2.0,[],['Potential Drug Targets']
+Pantoprazole,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Midazolam,2.0,[],['Potential Drug Targets']
+Yohimbine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Methotrexate,2.0,[],['Potential Drug Targets']
+Diltiazem,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Metenkefalin,6.0,"['Mu-type opioid receptor', 'Delta-type opioid receptor']","['Potential Drug Targets', 'Unapproved Treatments']"
+Tridecactide,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Dialyzable leukocyte extract,2.0,[],['Potential Drug Targets']
+Calcium,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+"Interleukin-1 alpha, human recombinant",2.0,[],['Potential Drug Targets']
+Interleukin-10,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Basic Fibroblast Growth Factor,2.0,[],['Potential Drug Targets']
+Masitinib,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Sugarcane,2.0,[],['Potential Drug Targets']
+Deferiprone,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Piperine,2.0,[],['Potential Drug Targets']
+Camphor,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Lidocaine,2.0,[],['Potential Drug Targets']
+Namilumab,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Reparixin,2.0,[],['Potential Drug Targets']
+Clevudine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Etoposide,2.0,[],['Potential Drug Targets']
+Allogenic Pooled Olfactory Mucosa-derived Mesenchymal Stem Cells,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Nomacopan,2.0,[],['Potential Drug Targets']
+Plitidepsin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Prazosin,2.0,[],['Potential Drug Targets']
+CYNK-001,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Barley,2.0,[],['Potential Drug Targets']
+FT516,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Calfactant,2.0,[],['Potential Drug Targets']
+Potassium,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Urea,2.0,[],['Potential Drug Targets']
+Chloride ion,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+V-SARS,2.0,[],['Potential Drug Targets']
+Lavender oil,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Dotatate gallium Ga-68,2.0,[],['Potential Drug Targets']
+Acetaminophen,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+CoviGlobulin,2.0,[],['Potential Drug Targets']
+Ginger oil,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Pacritinib,2.0,[],['Potential Drug Targets']
+Metronidazole,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Potassium chloride,2.0,[],['Potential Drug Targets']
+Glutathione,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Inosine,2.0,[],['Potential Drug Targets']
+Morphine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Resiniferatoxin,2.0,[],['Potential Drug Targets']
+Lucinactant,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Talactoferrin alfa,2.0,[],['Potential Drug Targets']
+Atracurium,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Cisatracurium,2.0,[],['Potential Drug Targets']
+Meningococcal polysaccharide vaccine group A,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Meningococcal polysaccharide vaccine group C,2.0,[],['Potential Drug Targets']
+Meningococcal polysaccharide vaccine group W-135,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Meningococcal polysaccharide vaccine group Y,2.0,[],['Potential Drug Targets']
+Deoxyribonuclease I,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Bemiparin,2.0,[],['Potential Drug Targets']
+Metoprolol,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Fosaprepitant,2.0,[],['Potential Drug Targets']
+LNP-nCoVsaRNA Vaccine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Human interleukin-6,2.0,[],['Potential Drug Targets']
+Merimepodib,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Etesevimab,4.0,['Spike glycoprotein'],"['Potential Drug Targets', 'Unapproved Treatments']"
+GX-19 Vaccine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+ISS-1018,2.0,[],['Potential Drug Targets']
+SCB-2019,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Raltegravir,2.0,[],['Potential Drug Targets']
+Pamrevlumab,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Edaravone,2.0,[],['Potential Drug Targets']
+Erythropoietin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Plasma protein fraction (human),2.0,[],['Potential Drug Targets']
+Brequinar,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+IMM-101,2.0,[],['Potential Drug Targets']
+SARS-CoV-2 mRNA vaccine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Orange,2.0,[],['Potential Drug Targets']
+Spearmint,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Bivalirudin,2.0,[],['Potential Drug Targets']
+Sodium citrate,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Fenretinide,2.0,[],['Potential Drug Targets']
+Peppermint,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Amniotic Epithelial Cells,2.0,[],['Potential Drug Targets']
+AG0301-COVID19,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Celery,2.0,[],['Potential Drug Targets']
+Prednisolone acetate,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Tramadol,2.0,[],['Potential Drug Targets']
+Bacillus calmette-guerin substrain connaught live antigen,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+AV-COVID-19,2.0,[],['Potential Drug Targets']
+AMY-101,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Garadacimab,2.0,[],['Potential Drug Targets']
+Prasugrel,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Hesperidin,2.0,[],['Potential Drug Targets']
+Diosmin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Dutasteride,2.0,[],['Potential Drug Targets']
+Ambrisentan,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Zanubrutinib,2.0,[],['Potential Drug Targets']
+Degarelix,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+PTC299,2.0,[],['Potential Drug Targets']
+Fostamatinib,603.0,"['Tyrosine-protein kinase Yes', 'Serine/threonine-protein kinase Nek5', 'Atypical kinase COQ8B, mitochondrial', 'Platelet-derived growth factor receptor alpha', 'Serine/threonine-protein kinase N1', 'Mitogen-activated protein kinase 13', 'Interferon-induced, double-stranded RNA-activated protein kinase', 'Casein kinase II subunit alpha', 'MAP/microtubule affinity-regulating kinase 3', 'Mitogen-activated protein kinase kinase kinase 6', 'Calcium/calmodulin-dependent protein kinase type 1G', 'Cyclin-dependent kinase 1', 'Dual specificity protein kinase CLK3', 'Mitogen-activated protein kinase 14', 'Mitogen-activated protein kinase 10', 'Proto-oncogene tyrosine-protein kinase ROS', 'Serine/threonine-protein kinase SIK2', 'Ephrin type-B receptor 6', 'Ephrin type-A receptor 6', 'Focal adhesion kinase 1', 'Activated CDC42 kinase 1', 'Mitogen-activated protein kinase kinase kinase MLT', ""5'-AMP-activated protein kinase"", 'Dual specificity tyrosine-phosphorylation-regulated kinase 1B', 'Dual specificity protein kinase CLK2', 'Aurora kinase B', 'Homeodomain-interacting protein kinase 2', 'Serine/threonine-protein kinase PknB', 'Mitogen-activated protein kinase kinase kinase kinase 1', 'Ephrin type-B receptor 4', 'Mitogen-activated protein kinase kinase kinase 10', 'Leucine-rich repeat serine/threonine-protein kinase 2', 'Serine/threonine-protein kinase TNNI3K', 'Wee1-like protein kinase', 'Tyrosine-protein kinase JAK1', 'LIM domain kinase 1', 'Mitogen-activated protein kinase kinase kinase 2', 'Mitogen-activated protein kinase kinase kinase 3', 'Serine/threonine-protein kinase PAK 6', 'Protein kinase C iota type', 'Epithelial discoidin domain-containing receptor 1', 'Tyrosine-protein kinase ZAP-70', 'Dual specificity protein kinase CLK4', 'Tyrosine-protein kinase Fer', 'Tyrosine-protein kinase ITK/TSK', 'Serine/threonine-protein kinase Nek3', 'RAF proto-oncogene serine/threonine-protein kinase', 'Peripheral plasma membrane protein CASK', 'Ribosomal protein S6 kinase alpha-3', 'Serine/threonine-protein kinase tousled-like 2', 'Serine/threonine-protein kinase 36', 'Dual specificity protein kinase CLK1', 'Angiopoietin-1 receptor', 'Tyrosine-protein kinase JAK2', 'Protein kinase C theta type', 'Uncharacterized serine/threonine-protein kinase SBK3', 'STE20-like serine/threonine-protein kinase', 'Ephrin type-A receptor 8', 'Mitogen-activated protein kinase kinase kinase 11', 'MAP/microtubule affinity-regulating kinase 4', 'cGMP-dependent protein kinase 2', 'Cathepsin S', 'Receptor tyrosine-protein kinase erbB-4', 'Serine/threonine-protein kinase 10', 'Ephrin type-A receptor 5', 'Vascular endothelial growth factor receptor 2', 'Myosin-IIIa', 'TGF-beta receptor type-1', 'Abelson tyrosine-protein kinase 2', 'Dual specificity tyrosine-phosphorylation-regulated kinase 1A', 'Fibroblast growth factor receptor 3', 'Serine/threonine-protein kinase pim-1', 'Ephrin type-A receptor 1', 'Dual specificity mitogen-activated protein kinase kinase 5', 'Serine/threonine-protein kinase PLK3', 'SNF-related serine/threonine-protein kinase', 'eIF-2-alpha kinase GCN2', 'Serine/threonine-protein kinase N2', 'Citron Rho-interacting kinase', 'Aurora kinase A', 'Ephrin type-B receptor 1', 'Mitogen-activated protein kinase kinase kinase 13', 'Serine/threonine-protein kinase/endoribonuclease IRE1', 'Tyrosine-protein kinase receptor UFO', 'Discoidin domain-containing receptor 2', 'Serine/threonine-protein kinase 24', 'Serine/threonine-protein kinase mTOR', 'Protein kinase C gamma type (PRKCG)', 'Serine/threonine-protein kinase DCLK1', 'Calcium/calmodulin-dependent protein kinase type II subunit delta', 'Receptor-interacting serine/threonine-protein kinase 1', 'Interleukin-1 receptor-associated kinase 4', 'Testis-specific serine/threonine-protein kinase 1', 'Atypical kinase COQ8A, mitochondrial', 'NUAK family SNF1-like kinase 2', 'Tyrosine-protein kinase receptor Tie-1', 'Calcium/calmodulin-dependent protein kinase type 1D', 'Dual specificity mitogen-activated protein kinase kinase 2', 'High affinity nerve growth factor receptor', 'Tyrosine-protein kinase TXK', 'Serine/threonine-protein kinase ULK3', 'Dual specificity protein kinase TTK', 'MAP kinase-interacting serine/threonine-protein kinase 2', 'Tyrosine-protein kinase Mer', 'BDNF/NT-3 growth factors receptor', 'Serine/threonine-protein kinase MST4', 'Protein-tyrosine kinase 2-beta', 'Myosin light chain kinase 3', 'Glycogen synthase kinase-3 beta', 'Mitogen-activated protein kinase kinase kinase 9', 'UDP-glucuronosyltransferase 1-1', 'Cyclin-dependent kinase-like 2', 'Mitogen-activated protein kinase kinase kinase kinase 3', 'Receptor-interacting serine/threonine-protein kinase 4', 'Serine/threonine-protein kinase OSR1', 'Serine/threonine-protein kinase Nek1', 'Mitogen-activated protein kinase kinase kinase 4', 'Serine/threonine-protein kinase 16', 'Fibroblast growth factor receptor 1', 'Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform', 'Calcium/calmodulin-dependent protein kinase type 1', 'Equilibrative nucleoside transporter 1', 'Dual specificity mitogen-activated protein kinase kinase 3', 'Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform', 'CLIP-associating protein 1', 'Serine/threonine-protein kinase 17B', 'Vascular endothelial growth factor receptor 3', 'Tyrosine-protein kinase Fgr', 'Serine/threonine-protein kinase LATS1', 'Mitogen-activated protein kinase kinase kinase kinase 5', 'Mitogen-activated protein kinase 15', 'Serine/threonine-protein kinase 17A', 'Bone morphogenetic protein receptor type-1B', 'Eukaryotic translation initiation factor 2-alpha kinase 1', 'Serine/threonine-protein kinase ICK', 'Mast/stem cell growth factor receptor Kit', 'Glycogen synthase kinase-3 alpha', 'Cytoplasmic tyrosine-protein kinase BMX', 'Bone morphogenetic protein receptor type-2', 'Ephrin type-A receptor 7', 'Ephrin type-A receptor 4', 'TGF-beta receptor type-2', 'Mitogen-activated protein kinase 4', 'Serine/threonine-protein kinase PLK4', 'TRAF2 and NCK-interacting protein kinase', 'Non-receptor tyrosine-protein kinase TNK1', 'Death-associated protein kinase 1', 'Serine/threonine-protein kinase tousled-like 1', 'NT-3 growth factor receptor', 'Cyclin-dependent kinase 15', 'Ankyrin repeat and protein kinase domain-containing protein 1', 'Receptor tyrosine-protein kinase erbB-2', 'Myosin light chain kinase 2, skeletal/cardiac muscle', 'Receptor-type tyrosine-protein kinase FLT3', 'Casein kinase I isoform alpha', 'Serine/threonine-protein kinase RIO3', 'Ribosomal protein S6 kinase alpha-6', 'Serine/threonine-protein kinase TAO3', 'Arachidonate 5-lipoxygenase', 'Leukocyte tyrosine kinase receptor', 'Interleukin-1 receptor-associated kinase 3', 'Tyrosine-protein kinase Lck', 'Insulin receptor', 'Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma', 'Serine/threonine-protein kinase SIK1', 'Tyrosine-protein kinase HCK', 'Calcium/calmodulin-dependent protein kinase type II subunit alpha', 'Mitogen-activated protein kinase kinase kinase 12', 'Platelet-derived growth factor receptor beta', 'Serine/threonine-protein kinase PLK2', 'Inhibitor of nuclear factor kappa-B kinase subunit epsilon', 'Vascular endothelial growth factor receptor 1', 'Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase', 'Cathepsin L1', 'Serine/threonine-protein kinase Nek4', 'Calcium/calmodulin-dependent protein kinase kinase 2', 'Serine/threonine-protein kinase MRCK gamma', 'Serine/threonine-protein kinase 35', 'Serine/threonine-protein kinase DCLK2', 'Cyclin-dependent kinase-like 1', 'Serine/threonine-protein kinase PAK 2', 'Serine/threonine-protein kinase SBK1', 'Serine/threonine-protein kinase Nek11', 'Serine/threonine-protein kinase NIM1', ""cGMP-specific 3',5'-cyclic phosphodiesterase"", 'Serine/threonine-protein kinase Chk1', 'Inhibitor of nuclear factor kappa-B kinase subunit beta', 'Proto-oncogene tyrosine-protein kinase Src', 'Mitogen-activated protein kinase 9', 'Kappa-casein', 'Muscle, skeletal receptor tyrosine-protein kinase', 'Protein-tyrosine kinase 6', 'Tyrosine-protein kinase Srms', 'cAMP-dependent protein kinase catalytic subunit alpha', 'Epidermal growth factor receptor', 'Misshapen-like kinase 1', 'Protein kinase C epsilon type', 'Tyrosine-protein kinase SYK', 'Tyrosine-protein kinase CSK', 'Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta', 'Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform', 'ALK tyrosine kinase receptor', 'BMP-2-inducible protein kinase', 'Death-associated protein kinase 3', 'Serine/threonine-protein kinase PAK 1', 'Serine/threonine-protein kinase PLK1', 'Insulin receptor-related protein', 'Serine/threonine-protein kinase ULK1', 'Ephrin type-A receptor 3', 'MAP kinase-interacting serine/threonine-protein kinase 1', 'Cyclin-G-associated kinase', 'Activin receptor type-1', 'Serine/threonine-protein kinase MARK1', 'Serine/threonine-protein kinase PAK 4', 'Calcium/calmodulin-dependent protein kinase type II subunit beta', 'Serine/threonine-protein kinase TAO2', 'Protein kinase C delta type', 'Serine/threonine-protein kinase 38-like', 'Mitogen-activated protein kinase kinase kinase 19', 'Proto-oncogene tyrosine-protein kinase receptor Ret', 'Phosphatidylinositol 5-phosphate 4-kinase type-2 beta', 'Calcium/calmodulin-dependent protein kinase type II subunit gamma', 'Serine/threonine-protein kinase 33', 'Serine/threonine-protein kinase MARK2', 'Tyrosine-protein kinase Fes/Fps', 'Serine/threonine-protein kinase TBK1', 'Tyrosine-protein kinase receptor TYRO3', 'Serine/threonine-protein kinase Nek9', 'Serine/threonine-protein kinase PAK 3', 'Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma', 'Maternal embryonic leucine zipper kinase', 'Dual specificity mitogen-activated protein kinase kinase 6', 'Serine/threonine-protein kinase 3', 'Mitogen-activated protein kinase 7', 'Serine/threonine-protein kinase pim-3', 'Death-associated protein kinase 2', 'Activin receptor type-1B', 'Serine/threonine-protein kinase Chk2', 'Ephrin type-B receptor 2', 'LIM domain kinase 2', ""Casein kinase II subunit alpha'"", 'Tyrosine-protein kinase Blk', 'Serine/threonine-protein kinase 38', 'Tyrosine-protein kinase Tec', 'Tyrosine-protein kinase BTK', 'Myosin light chain kinase family member 4', 'Tyrosine-protein kinase Fyn', 'Serine/threonine-protein kinase Nek2', 'Cyclin-dependent kinase 16', 'Serine/threonine-protein kinase PAK 5', 'Serine/threonine-protein kinase RIO1', 'Microtubule-associated serine/threonine-protein kinase 1', 'Macrophage-stimulating protein receptor', 'Serine/threonine-protein kinase SIK3', 'Adenosine receptor A3', 'Cyclin-dependent kinase 4', 'STE20/SPS1-related proline-alanine-rich protein kinase', 'Calcium/calmodulin-dependent protein kinase kinase 1', 'Interleukin-1 receptor-associated kinase 1', 'Mitogen-activated protein kinase kinase kinase 15', 'Mitogen-activated protein kinase kinase kinase kinase 2', 'Homeodomain-interacting protein kinase 3', 'Phosphatidylinositol 4-kinase beta', 'NUAK family SNF1-like kinase 1', 'Dual specificity testis-specific protein kinase 1', 'Aurora kinase C', 'Serine/threonine-protein kinase RIO2', 'Rho-associated protein kinase 2', 'Tyrosine-protein kinase Lyn', 'Hepatocyte growth factor receptor', 'Tyrosine-protein kinase JAK3', 'AP2-associated protein kinase 1', 'Serine/threonine-protein kinase ULK2', ""5'-AMP-activated protein kinase catalytic subunit alpha-1"", 'cAMP-dependent protein kinase catalytic subunit beta', 'Serine/threonine-protein kinase DCLK3', 'Cyclin-dependent kinase 17', 'MAP kinase-activated protein kinase 5', 'Fatty-acid amide hydrolase 1', 'Receptor-interacting serine/threonine-protein kinase 2', 'Serine/threonine-protein kinase 32A', '3-phosphoinositide-dependent protein kinase 1', 'Macrophage colony-stimulating factor 1 receptor', 'Serine/threonine-protein kinase B-raf', 'Ribosomal protein S6 kinase alpha-1', 'Fibroblast growth factor receptor 2', 'Tyrosine-protein kinase ABL1', 'Serine/threonine-protein kinase D1', 'Serine/threonine-protein kinase PRP4 homolog', 'Serine/threonine-protein kinase Sgk3', 'Mitogen-activated protein kinase kinase kinase 1', 'Mitogen-activated protein kinase kinase kinase kinase 4', 'Ephrin type-A receptor 2', 'Tyrosine-protein kinase FRK', 'vesicular monoamine transporter 2 (VMAT2)', 'Megakaryocyte-associated tyrosine-protein kinase', 'Myosin light chain kinase, smooth muscle', 'Non-receptor tyrosine-protein kinase TYK2', 'Calcium-dependent protein kinase 1', 'Serine/threonine-protein kinase TAO1']","['External Clinical Trials', 'Potential Drug Targets', 'Unapproved Treatments']"
+Crizanlizumab,2.0,[],['Potential Drug Targets']
+Coronavirus-Like Particle COVID-19 Vaccine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Dactolisib,2.0,[],['Potential Drug Targets']
+Efmarodocokin alfa,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Astegolimab,2.0,[],['Potential Drug Targets']
+Alkaline Phosphatase,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+ZYCOV-D,2.0,[],['Potential Drug Targets']
+BBV152,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Clofazimine,2.0,[],['Potential Drug Targets']
+Cow milk,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Apilimod,2.0,[],['Potential Drug Targets']
+Probiorinse,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Mometasone,2.0,[],['Potential Drug Targets']
+COVID-19 Spike-GM-CSF Protein Lactated Ringer's Injection,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Eflornithine,2.0,[],['Potential Drug Targets']
+CAP-1002,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Taraxacum officinale pollen,2.0,[],['Potential Drug Targets']
+Taraxacum officinale leaf,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Aspartyl-alanyl-diketopiperazine,2.0,[],['Potential Drug Targets']
+PlasmaCord,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Magnesium sulfate,2.0,[],['Potential Drug Targets']
+EpiVacCorona,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Black pepper,2.0,[],['Potential Drug Targets']
+Nimesulide,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+RUTI® Vaccine,1.0,[],[]
+Recombinant Human Plasma Gelsolin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Thimerosal,2.0,[],['Potential Drug Targets']
+Apremilast,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Allocetra,2.0,[],['Potential Drug Targets']
+Protoporphyrin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Magnesium glycinate,2.0,[],['Potential Drug Targets']
+Menaquinone 6,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Magnesium,2.0,[],['Potential Drug Targets']
+Menadione,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Vitamin K7,2.0,[],['Potential Drug Targets']
+Betamethasone,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Platelet Lysate,2.0,[],['Potential Drug Targets']
+Aloe vera leaf,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+MW33,2.0,[],['Potential Drug Targets']
+Mometasone furoate,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+TMV-083,2.0,[],['Potential Drug Targets']
+GRAd-COV2,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Epoprostenol,2.0,[],['Potential Drug Targets']
+Citrus bioflavonoids,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Mecobalamin,2.0,[],['Potential Drug Targets']
+Zinc citrate,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+AZD7442,2.0,[],['Potential Drug Targets']
+Fenofibrate,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Collagen-polyvinylpyrrolidone,2.0,[],['Potential Drug Targets']
+Lactobacillus plantarum,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Pediococcus acidilactici,2.0,[],['Potential Drug Targets']
+Glycine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Vadadustat,2.0,[],['Potential Drug Targets']
+Receptor binding domain (RBD) SARS-CoV-2 (COVID-19) hepatitis B surface antigen (HBsAg) virus-like particle (VLP) vaccine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Dimethyl sulfoxide,2.0,[],['Potential Drug Targets']
+Garlic,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+FINLAY-FR-1,2.0,[],['Potential Drug Targets']
+AdimrSC-2f,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Sotrovimab,4.0,['Spike glycoprotein'],"['Potential Drug Targets', 'Unapproved Treatments']"
+V591,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Losmapimod,2.0,[],['Potential Drug Targets']
+Recombinant SARS-CoV-2 Vaccine (Sf9 Cell),3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Eltrombopag,2.0,[],['Potential Drug Targets']
+Recombinant Human Thrombopoietin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+AG0302-COVID19,2.0,[],['Potential Drug Targets']
+Fish oil,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Artemisia annua leaf,2.0,[],['Potential Drug Targets']
+Ferric sodium citrate,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Aminolevulinic acid,2.0,[],['Potential Drug Targets']
+AK119,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Peginterferon beta-1a,2.0,[],['Potential Drug Targets']
+Ramelteon,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Razuprotafib,2.0,[],['Potential Drug Targets']
+Genistein,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+CSL324,2.0,[],['Potential Drug Targets']
+Autologous peripheral blood-derived CD34+ cells,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Disulfiram,2.0,[],['Potential Drug Targets']
+Varicella zoster vaccine (recombinant),3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Toremifene,2.0,[],['Potential Drug Targets']
+Demeclocycline,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+VXA-CoV2-1,2.0,[],['Potential Drug Targets']
+Ibudilast,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+SARS-CoV-2 vaccine,2.0,[],['Potential Drug Targets']
+St. John's Wort,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Rintatolimod,2.0,[],['Potential Drug Targets']
+Treamid,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Bardoxolone methyl,2.0,[],['Potential Drug Targets']
+Zofin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Avasopasem manganese,2.0,[],['Potential Drug Targets']
+Onion,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Decitabine,2.0,[],['Potential Drug Targets']
+Descartes-30,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Prolectin-M,2.0,[],['Potential Drug Targets']
+MVC-COV1901,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ozanimod,2.0,[],['Potential Drug Targets']
+Anti-SARS-CoV-2 IgY,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+QazCovid-in,2.0,[],['Potential Drug Targets']
+Quinine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Antroquinonol,2.0,[],['Potential Drug Targets']
+Serine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Levocarnitine,2.0,[],['Potential Drug Targets']
+Eucalyptus oil,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Melilotus officinalis pollen,2.0,[],['Potential Drug Targets']
+Tribulus terrestris,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Dapansutrile,2.0,[],['Potential Drug Targets']
+UB-612,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+CK0802,2.0,[],['Potential Drug Targets']
+NasoVAX,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+CoVac-1,2.0,[],['Potential Drug Targets']
+Bucillamine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Epigallocatechin,2.0,[],['Potential Drug Targets']
+Alprostadil,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Alvelestat,2.0,[],['Potential Drug Targets']
+Norelgestromin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Ethinylestradiol,2.0,[],['Potential Drug Targets']
+BacTRL-spike,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Argatroban,2.0,[],['Potential Drug Targets']
+Tafenoquine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+MVA-SARS-2-S,2.0,[],['Potential Drug Targets']
+Piclidenoson,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+F-652,2.0,[],['Potential Drug Targets']
+Anti-SARS-CoV-2 equine immunoglobulin fragments,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+V590,2.0,[],['Potential Drug Targets']
+Somatotropin,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Lenalidomide,2.0,[],['Potential Drug Targets']
+Cultivated mushroom,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Corn,2.0,[],['Potential Drug Targets']
+Brexanolone,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+Valproic acid,2.0,[],['Potential Drug Targets']
+Quetiapine,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+PH94B,2.0,[],['Potential Drug Targets']
+KBP-COVID-19,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+RAPA-501-Allo,2.0,[],['Potential Drug Targets']
+IN01,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+ChulaCov19 mRNA vaccine,2.0,[],['Potential Drug Targets']
+Elbasvir,2.0,[],['Unapproved Treatments']
+GS-441524,4.0,['RNA-directed RNA polymerase L'],['Unapproved Treatments']
+GC-376 free acid,10.0,"['Replicase polyprotein 1a', 'Replicase polyprotein 1ab']",['Unapproved Treatments']
+GC-373,10.0,"['Replicase polyprotein 1a', 'Replicase polyprotein 1ab']",['Unapproved Treatments']
+Azvudine,6.0,"['P-glycoprotein 1', 'Canalicular multispecific organic anion transporter 1']",['Unapproved Treatments']
+ATYR1923,2.0,[],['Unapproved Treatments']
+Pam2csk4,4.0,['Toll-like receptor 2'],['Unapproved Treatments']
+PF-07304814,2.0,[],['Unapproved Treatments']
+Nirmatrelvir,2.0,[],['Unapproved Treatments']
+MM3122,2.0,[],['Unapproved Treatments']
+Cilgavimab,2.0,[],['Unapproved Treatments']
+Tixagevimab,2.0,[],['Unapproved Treatments']
+Human immunodeficiency virus type 1 protease,3.0,[],['Unapproved Treatments']
+Glutathione S-transferase A2,1.0,[],[]
+RNA-directed RNA polymerase L,2.0,[],['Unapproved Treatments']
+RNA-directed RNA polymerase catalytic subunit,1.0,[],[]
+Interferon alpha/beta receptor 1,1.0,[],[]
+HIV-1 protease,1.0,[],[]
+Sphingosine 1-phosphate receptor 5,1.0,[],[]
+Glucocorticoid receptor,2.0,[],['Unapproved Treatments']
+Vascular endothelial growth factor A,1.0,[],[]
+C-C chemokine receptor type 5,1.0,[],[]
+23S ribosomal RNA,1.0,[],[]
+Nonstructural protein 5A,1.0,[],[]
+Interleukin-6 receptor subunit alpha,1.0,[],[]
+Replicase polyprotein 1ab,9.0,[],['Unapproved Treatments']
+Delta-type opioid receptor,1.0,[],[]
+Calcitonin gene-related peptide type 1 receptor,1.0,[],[]
+Prostaglandin G/H synthase 2,1.0,[],[]
+Spike glycoprotein,6.0,[],['Unapproved Treatments']
+Tubulin beta chain,1.0,[],[]
+"Glutamate receptor ionotropic, NMDA 2B",1.0,[],[]
+Epidermal growth factor receptor,2.0,[],['Unapproved Treatments']
+Tyrosine-protein kinase JAK1,2.0,[],['Unapproved Treatments']
+ATP-binding cassette sub-family G member 2,1.0,[],[]
+Neuropilin-2,1.0,[],[]
+Toll-like receptor 6,1.0,[],[]
+Tyrosine-protein kinase SYK,1.0,[],[]
+Transmembrane protease serine 2,1.0,[],[]
+Nuclear receptor subfamily 1 group I member 2,2.0,[],['Unapproved Treatments']
+Tumor necrosis factor,1.0,[],[]
+Sphingosine 1-phosphate receptor 1,1.0,[],[]
+Annexin A1,2.0,[],['Unapproved Treatments']
+Complement C1q subcomponent subunit A,1.0,[],[]
+Protein-arginine deiminase type-4,1.0,[],[]
+Mu-type opioid receptor,1.0,[],[]
+Prostaglandin G/H synthase 1,1.0,[],[]
+Nuclear receptor subfamily 0 group B member 1,1.0,[],[]
+Replicase polyprotein 1a,4.0,[],['Unapproved Treatments']
+"Glutamate receptor ionotropic, NMDA 1",1.0,[],[]
+Tyrosine-protein kinase BTK,2.0,[],['Unapproved Treatments']
+Tyrosine-protein kinase JAK2,2.0,[],['Unapproved Treatments']
+Canalicular multispecific organic anion transporter 1,1.0,[],[]
+Toll-like receptor 2,1.0,[],[]
+Adenosine receptor A3,1.0,[],[]
+Toll-like receptor 9,1.0,[],[]
+Sphingosine 1-phosphate receptor 3,1.0,[],[]
+Complement C1q subcomponent subunit B,1.0,[],[]
+Apoptosis regulator Bcl-2,1.0,[],[]
+G protein-activated inward rectifier potassium channel 1,1.0,[],[]
+Tyrosine-protein kinase JAK3,2.0,[],['Unapproved Treatments']
+P-glycoprotein 1,1.0,[],[]
+vesicular monoamine transporter 2 (VMAT2),1.0,[],[]
+Glutathione S-transferase,1.0,[],[]
+Histone deacetylase 1,1.0,[],[]
+Complement C1q subcomponent subunit C,1.0,[],[]
+Thrombomodulin,1.0,[],[]
+"Nitric oxide synthase, inducible",1.0,[],[]
+G protein-activated inward rectifier potassium channel 2,1.0,[],[]
+Non-receptor tyrosine-protein kinase TYK2,2.0,[],['Unapproved Treatments']
+Fatty-acid amide hydrolase 1,1.0,[],[]
+High mobility group protein B1,1.0,[],[]
+Sphingosine 1-phosphate receptor 4,1.0,[],[]
+Low affinity immunoglobulin gamma Fc region receptor III-A,1.0,[],[]
+"Fatty acid-binding protein, intestinal",1.0,[],[]
+G protein-activated inward rectifier potassium channel 4,1.0,[],[]
+Equilibrative nucleoside transporter 1,1.0,[],[]
+Glutathione S-transferase Mu 1,1.0,[],[]
+High affinity immunoglobulin gamma Fc receptor I,1.0,[],[]
+Peroxisome proliferator-activated receptor gamma,1.0,[],[]
+UDP-glucuronosyltransferase 1-1,1.0,[],[]
+Angiotensin-converting enzyme 2,1.0,[],[]
+Low affinity immunoglobulin gamma Fc region receptor II-a,1.0,[],[]
+Cystic fibrosis transmembrane conductance regulator,1.0,[],[]
+"cGMP-specific 3',5'-cyclic phosphodiesterase",1.0,[],[]
+Low affinity immunoglobulin gamma Fc region receptor II-b,1.0,[],[]
+Peroxisome proliferator-activated receptor alpha,1.0,[],[]
+Arachidonate 5-lipoxygenase,1.0,[],[]
+Low affinity immunoglobulin gamma Fc region receptor II-c,1.0,[],[]
+Platelet glycoprotein Ib alpha chain,1.0,[],[]
+Cathepsin S,1.0,[],[]
+Protein S100-A7,1.0,[],[]
+Cathepsin L1,1.0,[],[]
+Tyrosine-protein kinase ABL1,1.0,[],[]
+Calcium-dependent protein kinase 1,1.0,[],[]
+Serine/threonine-protein kinase PknB,1.0,[],[]
+Ribosomal protein S6 kinase alpha-6,1.0,[],[]
+"Atypical kinase COQ8A, mitochondrial",1.0,[],[]
+Hepatocyte growth factor receptor,1.0,[],[]
+Serine/threonine-protein kinase NIM1,1.0,[],[]
+Serine/threonine-protein kinase MST4,1.0,[],[]
+cAMP-dependent protein kinase catalytic subunit alpha,1.0,[],[]
+Serine/threonine-protein kinase 24,1.0,[],[]
+Serine/threonine-protein kinase 3,1.0,[],[]
+Tyrosine-protein kinase Tec,1.0,[],[]
+Serine/threonine-protein kinase 33,1.0,[],[]
+Serine/threonine-protein kinase 35,1.0,[],[]
+Serine/threonine-protein kinase 36,1.0,[],[]
+Serine/threonine-protein kinase 38,1.0,[],[]
+Serine/threonine-protein kinase 38-like,1.0,[],[]
+STE20/SPS1-related proline-alanine-rich protein kinase,1.0,[],[]
+Serine/threonine-protein kinase TAO1,1.0,[],[]
+Serine/threonine-protein kinase TAO2,1.0,[],[]
+Serine/threonine-protein kinase TAO3,1.0,[],[]
+Serine/threonine-protein kinase TBK1,1.0,[],[]
+Angiopoietin-1 receptor,1.0,[],[]
+Dual specificity testis-specific protein kinase 1,1.0,[],[]
+TGF-beta receptor type-1,1.0,[],[]
+TGF-beta receptor type-2,1.0,[],[]
+Tyrosine-protein kinase receptor Tie-1,1.0,[],[]
+Serine/threonine-protein kinase tousled-like 1,1.0,[],[]
+Serine/threonine-protein kinase tousled-like 2,1.0,[],[]
+TRAF2 and NCK-interacting protein kinase,1.0,[],[]
+Non-receptor tyrosine-protein kinase TNK1,1.0,[],[]
+Activated CDC42 kinase 1,1.0,[],[]
+Serine/threonine-protein kinase TNNI3K,1.0,[],[]
+Testis-specific serine/threonine-protein kinase 1,1.0,[],[]
+Dual specificity protein kinase TTK,1.0,[],[]
+Tyrosine-protein kinase TXK,1.0,[],[]
+Tyrosine-protein kinase receptor TYRO3,1.0,[],[]
+Serine/threonine-protein kinase ULK1,1.0,[],[]
+Serine/threonine-protein kinase ULK2,1.0,[],[]
+Serine/threonine-protein kinase ULK3,1.0,[],[]
+Wee1-like protein kinase,1.0,[],[]
+Tyrosine-protein kinase Yes,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 19,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase MLT,1.0,[],[]
+Tyrosine-protein kinase ZAP-70,1.0,[],[]
+AP2-associated protein kinase 1,1.0,[],[]
+Abelson tyrosine-protein kinase 2,1.0,[],[]
+Activin receptor type-1,1.0,[],[]
+Activin receptor type-1B,1.0,[],[]
+"Atypical kinase COQ8B, mitochondrial",1.0,[],[]
+ALK tyrosine kinase receptor,1.0,[],[]
+Ankyrin repeat and protein kinase domain-containing protein 1,1.0,[],[]
+Aurora kinase A,1.0,[],[]
+Aurora kinase B,1.0,[],[]
+Aurora kinase C,1.0,[],[]
+Tyrosine-protein kinase receptor UFO,1.0,[],[]
+Tyrosine-protein kinase Blk,1.0,[],[]
+BMP-2-inducible protein kinase,1.0,[],[]
+Bone morphogenetic protein receptor type-1B,1.0,[],[]
+Bone morphogenetic protein receptor type-2,1.0,[],[]
+Cytoplasmic tyrosine-protein kinase BMX,1.0,[],[]
+Serine/threonine-protein kinase B-raf,1.0,[],[]
+Calcium/calmodulin-dependent protein kinase type 1,1.0,[],[]
+Calcium/calmodulin-dependent protein kinase type 1D,1.0,[],[]
+Calcium/calmodulin-dependent protein kinase type 1G,1.0,[],[]
+Calcium/calmodulin-dependent protein kinase type II subunit alpha,1.0,[],[]
+Calcium/calmodulin-dependent protein kinase type II subunit beta,1.0,[],[]
+Calcium/calmodulin-dependent protein kinase type II subunit delta,1.0,[],[]
+Calcium/calmodulin-dependent protein kinase type II subunit gamma,1.0,[],[]
+Calcium/calmodulin-dependent protein kinase kinase 1,1.0,[],[]
+Calcium/calmodulin-dependent protein kinase kinase 2,1.0,[],[]
+Peripheral plasma membrane protein CASK,1.0,[],[]
+Kappa-casein,1.0,[],[]
+Cyclin-dependent kinase 1,1.0,[],[]
+Serine/threonine-protein kinase MRCK gamma,1.0,[],[]
+Cyclin-dependent kinase 4,1.0,[],[]
+Cyclin-dependent kinase-like 1,1.0,[],[]
+Cyclin-dependent kinase-like 2,1.0,[],[]
+Serine/threonine-protein kinase Chk1,1.0,[],[]
+Serine/threonine-protein kinase Chk2,1.0,[],[]
+Citron Rho-interacting kinase,1.0,[],[]
+Dual specificity protein kinase CLK1,1.0,[],[]
+Dual specificity protein kinase CLK2,1.0,[],[]
+Dual specificity protein kinase CLK3,1.0,[],[]
+Dual specificity protein kinase CLK4,1.0,[],[]
+Macrophage colony-stimulating factor 1 receptor,1.0,[],[]
+Tyrosine-protein kinase CSK,1.0,[],[]
+Casein kinase I isoform alpha,1.0,[],[]
+Casein kinase II subunit alpha,1.0,[],[]
+Casein kinase II subunit alpha',1.0,[],[]
+Death-associated protein kinase 1,1.0,[],[]
+Death-associated protein kinase 2,1.0,[],[]
+Death-associated protein kinase 3,1.0,[],[]
+Serine/threonine-protein kinase DCLK1,1.0,[],[]
+Serine/threonine-protein kinase DCLK2,1.0,[],[]
+Serine/threonine-protein kinase DCLK3,1.0,[],[]
+Epithelial discoidin domain-containing receptor 1,1.0,[],[]
+Discoidin domain-containing receptor 2,1.0,[],[]
+Dual specificity tyrosine-phosphorylation-regulated kinase 1A,1.0,[],[]
+Dual specificity tyrosine-phosphorylation-regulated kinase 1B,1.0,[],[]
+Eukaryotic translation initiation factor 2-alpha kinase 1,1.0,[],[]
+"Interferon-induced, double-stranded RNA-activated protein kinase",1.0,[],[]
+eIF-2-alpha kinase GCN2,1.0,[],[]
+Ephrin type-A receptor 1,1.0,[],[]
+Ephrin type-A receptor 2,1.0,[],[]
+Ephrin type-A receptor 3,1.0,[],[]
+Ephrin type-A receptor 4,1.0,[],[]
+Ephrin type-A receptor 5,1.0,[],[]
+Ephrin type-A receptor 6,1.0,[],[]
+Ephrin type-A receptor 7,1.0,[],[]
+Ephrin type-A receptor 8,1.0,[],[]
+Ephrin type-B receptor 1,1.0,[],[]
+Ephrin type-B receptor 2,1.0,[],[]
+Ephrin type-B receptor 4,1.0,[],[]
+Ephrin type-B receptor 6,1.0,[],[]
+Receptor tyrosine-protein kinase erbB-2,1.0,[],[]
+Receptor tyrosine-protein kinase erbB-4,1.0,[],[]
+Serine/threonine-protein kinase/endoribonuclease IRE1,1.0,[],[]
+Tyrosine-protein kinase Fer,1.0,[],[]
+Tyrosine-protein kinase Fes/Fps,1.0,[],[]
+Fibroblast growth factor receptor 1,1.0,[],[]
+Fibroblast growth factor receptor 2,1.0,[],[]
+Fibroblast growth factor receptor 3,1.0,[],[]
+Tyrosine-protein kinase Fgr,1.0,[],[]
+Vascular endothelial growth factor receptor 1,1.0,[],[]
+Receptor-type tyrosine-protein kinase FLT3,1.0,[],[]
+Vascular endothelial growth factor receptor 3,1.0,[],[]
+Serine/threonine-protein kinase mTOR,1.0,[],[]
+Tyrosine-protein kinase FRK,1.0,[],[]
+Tyrosine-protein kinase Fyn,1.0,[],[]
+Cyclin-G-associated kinase,1.0,[],[]
+Glycogen synthase kinase-3 alpha,1.0,[],[]
+Glycogen synthase kinase-3 beta,1.0,[],[]
+Tyrosine-protein kinase HCK,1.0,[],[]
+Homeodomain-interacting protein kinase 2,1.0,[],[]
+Homeodomain-interacting protein kinase 3,1.0,[],[]
+Serine/threonine-protein kinase ICK,1.0,[],[]
+Inhibitor of nuclear factor kappa-B kinase subunit beta,1.0,[],[]
+Inhibitor of nuclear factor kappa-B kinase subunit epsilon,1.0,[],[]
+Insulin receptor,1.0,[],[]
+Insulin receptor-related protein,1.0,[],[]
+Interleukin-1 receptor-associated kinase 1,1.0,[],[]
+Interleukin-1 receptor-associated kinase 3,1.0,[],[]
+Interleukin-1 receptor-associated kinase 4,1.0,[],[]
+Tyrosine-protein kinase ITK/TSK,1.0,[],[]
+Vascular endothelial growth factor receptor 2,1.0,[],[]
+Serine/threonine-protein kinase SIK3,1.0,[],[]
+Mast/stem cell growth factor receptor Kit,1.0,[],[]
+Serine/threonine-protein kinase LATS1,1.0,[],[]
+Tyrosine-protein kinase Lck,1.0,[],[]
+LIM domain kinase 1,1.0,[],[]
+LIM domain kinase 2,1.0,[],[]
+Leucine-rich repeat serine/threonine-protein kinase 2,1.0,[],[]
+Leukocyte tyrosine kinase receptor,1.0,[],[]
+Tyrosine-protein kinase Lyn,1.0,[],[]
+Dual specificity mitogen-activated protein kinase kinase 2,1.0,[],[]
+Dual specificity mitogen-activated protein kinase kinase 3,1.0,[],[]
+Dual specificity mitogen-activated protein kinase kinase 5,1.0,[],[]
+Dual specificity mitogen-activated protein kinase kinase 6,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 1,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 10,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 11,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 12,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 13,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 15,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 2,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 3,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 4,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 6,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase 9,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase kinase 1,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase kinase 2,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase kinase 3,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase kinase 4,1.0,[],[]
+Mitogen-activated protein kinase kinase kinase kinase 5,1.0,[],[]
+Mitogen-activated protein kinase 10,1.0,[],[]
+Mitogen-activated protein kinase 13,1.0,[],[]
+Mitogen-activated protein kinase 14,1.0,[],[]
+Mitogen-activated protein kinase 15,1.0,[],[]
+Mitogen-activated protein kinase 4,1.0,[],[]
+Mitogen-activated protein kinase 7,1.0,[],[]
+Mitogen-activated protein kinase 9,1.0,[],[]
+MAP kinase-activated protein kinase 5,1.0,[],[]
+Serine/threonine-protein kinase MARK1,1.0,[],[]
+Serine/threonine-protein kinase MARK2,1.0,[],[]
+MAP/microtubule affinity-regulating kinase 3,1.0,[],[]
+MAP/microtubule affinity-regulating kinase 4,1.0,[],[]
+CLIP-associating protein 1,1.0,[],[]
+Microtubule-associated serine/threonine-protein kinase 1,1.0,[],[]
+Megakaryocyte-associated tyrosine-protein kinase,1.0,[],[]
+Maternal embryonic leucine zipper kinase,1.0,[],[]
+Tyrosine-protein kinase Mer,1.0,[],[]
+Misshapen-like kinase 1,1.0,[],[]
+MAP kinase-interacting serine/threonine-protein kinase 1,1.0,[],[]
+MAP kinase-interacting serine/threonine-protein kinase 2,1.0,[],[]
+Macrophage-stimulating protein receptor,1.0,[],[]
+"Muscle, skeletal receptor tyrosine-protein kinase",1.0,[],[]
+"Myosin light chain kinase, smooth muscle",1.0,[],[]
+"Myosin light chain kinase 2, skeletal/cardiac muscle",1.0,[],[]
+Myosin light chain kinase 3,1.0,[],[]
+Myosin light chain kinase family member 4,1.0,[],[]
+Myosin-IIIa,1.0,[],[]
+Serine/threonine-protein kinase Nek1,1.0,[],[]
+Serine/threonine-protein kinase Nek11,1.0,[],[]
+Serine/threonine-protein kinase Nek2,1.0,[],[]
+Serine/threonine-protein kinase Nek3,1.0,[],[]
+Serine/threonine-protein kinase Nek4,1.0,[],[]
+Serine/threonine-protein kinase Nek5,1.0,[],[]
+Serine/threonine-protein kinase Nek9,1.0,[],[]
+High affinity nerve growth factor receptor,1.0,[],[]
+BDNF/NT-3 growth factors receptor,1.0,[],[]
+NT-3 growth factor receptor,1.0,[],[]
+NUAK family SNF1-like kinase 1,1.0,[],[]
+NUAK family SNF1-like kinase 2,1.0,[],[]
+Serine/threonine-protein kinase OSR1,1.0,[],[]
+Serine/threonine-protein kinase PAK 1,1.0,[],[]
+Serine/threonine-protein kinase PAK 2,1.0,[],[]
+Serine/threonine-protein kinase PAK 3,1.0,[],[]
+Serine/threonine-protein kinase PAK 4,1.0,[],[]
+Serine/threonine-protein kinase PAK 6,1.0,[],[]
+Serine/threonine-protein kinase PAK 5,1.0,[],[]
+Cyclin-dependent kinase 16,1.0,[],[]
+Cyclin-dependent kinase 17,1.0,[],[]
+Platelet-derived growth factor receptor alpha,1.0,[],[]
+Platelet-derived growth factor receptor beta,1.0,[],[]
+3-phosphoinositide-dependent protein kinase 1,1.0,[],[]
+Cyclin-dependent kinase 15,1.0,[],[]
+"Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform",1.0,[],[]
+Phosphatidylinositol 4-kinase beta,1.0,[],[]
+Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta,1.0,[],[]
+Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma,1.0,[],[]
+"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",1.0,[],[]
+"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",1.0,[],[]
+Serine/threonine-protein kinase pim-1,1.0,[],[]
+Serine/threonine-protein kinase pim-3,1.0,[],[]
+Phosphatidylinositol 5-phosphate 4-kinase type-2 beta,1.0,[],[]
+Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma,1.0,[],[]
+Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase,1.0,[],[]
+Serine/threonine-protein kinase N1,1.0,[],[]
+Serine/threonine-protein kinase N2,1.0,[],[]
+Serine/threonine-protein kinase PLK1,1.0,[],[]
+Serine/threonine-protein kinase PLK2,1.0,[],[]
+Serine/threonine-protein kinase PLK3,1.0,[],[]
+Serine/threonine-protein kinase PLK4,1.0,[],[]
+5'-AMP-activated protein kinase catalytic subunit alpha-1,1.0,[],[]
+5'-AMP-activated protein kinase,1.0,[],[]
+cAMP-dependent protein kinase catalytic subunit beta,1.0,[],[]
+Protein kinase C delta type,1.0,[],[]
+Protein kinase C epsilon type,1.0,[],[]
+Protein kinase C gamma type (PRKCG),1.0,[],[]
+Protein kinase C iota type,1.0,[],[]
+Protein kinase C theta type,1.0,[],[]
+Serine/threonine-protein kinase D1,1.0,[],[]
+cGMP-dependent protein kinase 2,1.0,[],[]
+Serine/threonine-protein kinase PRP4 homolog,1.0,[],[]
+Focal adhesion kinase 1,1.0,[],[]
+Protein-tyrosine kinase 2-beta,1.0,[],[]
+Protein-tyrosine kinase 6,1.0,[],[]
+RAF proto-oncogene serine/threonine-protein kinase,1.0,[],[]
+Proto-oncogene tyrosine-protein kinase receptor Ret,1.0,[],[]
+Serine/threonine-protein kinase RIO1,1.0,[],[]
+Serine/threonine-protein kinase RIO2,1.0,[],[]
+Serine/threonine-protein kinase RIO3,1.0,[],[]
+Receptor-interacting serine/threonine-protein kinase 1,1.0,[],[]
+Receptor-interacting serine/threonine-protein kinase 2,1.0,[],[]
+Receptor-interacting serine/threonine-protein kinase 4,1.0,[],[]
+Rho-associated protein kinase 2,1.0,[],[]
+Proto-oncogene tyrosine-protein kinase ROS,1.0,[],[]
+Ribosomal protein S6 kinase alpha-1,1.0,[],[]
+Ribosomal protein S6 kinase alpha-3,1.0,[],[]
+Serine/threonine-protein kinase SBK1,1.0,[],[]
+Uncharacterized serine/threonine-protein kinase SBK3,1.0,[],[]
+Serine/threonine-protein kinase Sgk3,1.0,[],[]
+Serine/threonine-protein kinase SIK1,1.0,[],[]
+Serine/threonine-protein kinase SIK2,1.0,[],[]
+STE20-like serine/threonine-protein kinase,1.0,[],[]
+SNF-related serine/threonine-protein kinase,1.0,[],[]
+Proto-oncogene tyrosine-protein kinase Src,1.0,[],[]
+Tyrosine-protein kinase Srms,1.0,[],[]
+Serine/threonine-protein kinase 10,1.0,[],[]
+Serine/threonine-protein kinase 16,1.0,[],[]
+Serine/threonine-protein kinase 17A,1.0,[],[]
+Serine/threonine-protein kinase 17B,1.0,[],[]
+Serine/threonine-protein kinase 32A,1.0,[],[]
+RUTI┬« Vaccine,1.0,[],[]
+Covax-19Γäó,3.0,[],"['External Clinical Trials', 'Potential Drug Targets']"
+VA-MENGOC-BC┬«,1.0,[],[]
